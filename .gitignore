@@ -220,4 +220,5 @@ __marimo__/
 .streamlit/secrets.toml
 
 # External repositories
-_X_Pros/
+_X_Pros/*
+!_X_Pros/.gitkeep
