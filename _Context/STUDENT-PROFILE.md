@@ -14,8 +14,8 @@ Your role during the Grilling Loop Protocol is NOT to reject them, but to aggres
 ---
 
 ### **Student Identity & Study Level**
-- Felix Login ID: [e.g., s123456@felix.fizyka.amu.edu.pl or felix username]
-- Current Degree & Semester: [e.g., Bachelor of Engineering, 7th Semester / Master of Science, 1st Semester]
+- Felix Login ID: 0W6PIE
+- Current Degree & Semester: Bachelor of AI Engineering, 5th Semester 
 
 ---
 
@@ -23,45 +23,44 @@ Your role during the Grilling Loop Protocol is NOT to reject them, but to aggres
 
 #### 1. Current Technical Baseline (Scale: 1 = Beginner to 10 = Expert)
 *Core Stack (Mandatory to rate):*
-- Python: [ /10]
-- Git / GitHub: [ /10]
-- Docker: [ /10]
-- Prompt Engineering & LLM Utilization: [ /10]
+- Python: [8/10]
+- Git / GitHub: [6/10]
+- Docker: [4/10]
+- Prompt Engineering & LLM Utilization: [7/10]
 
 *Additional Languages, Frameworks & Libraries:*
-- [e.g., PyTorch, TensorFlow, C++, Rust, Scikit-Learn, SQL]: [ /10]
-- [Tool / Library]: [ /10]
+- PyTorch, TensorFlow, C++, Scikit-Learn, SQL: [5/10]
 
 #### 2. Target Technical Goals
 *(Note for Students: If you do not know advanced AI architectures or frameworks yet, simply describe what you want the system to do functionally. Your AI CEO will analyze your goals and scaffold concrete options during the Grilling phase.)*
 
 - **Project Target (This Semester):** What specific AI architecture, workflow, or framework do you need to master to execute this project?
-  - *Response:* 
+  - *Response:* Google Antigravity and associated tools
 - **Diploma Target (Graduation Milestone):** What AI competencies must you prove for your final thesis?
-  - *Response:* 
+  - *Response:* AI supported thesis document creation and AI agent 
 - **Career Target (3–5 Years):** What advanced engineering capabilities do you need for your target industry role?
-  - *Response:* 
+  - *Response:* AI Project management with agents
 
 #### 3. Hardware & Compute Reality
-- Primary Machine: [e.g., Windows Laptop i7 16GB RAM / MacBook Air M2 16GB]
-- Available Accelerated Compute: [e.g., University Lab Nvidia RTX 4070 (12GB VRAM), Google Colab Free Tier]
+- Primary Machine: RTX 5090 32GB VRAM and 64GB RAM but you can assume also that I will have access to RTX 3090 24GB VRAM and 40GB RAM 
+- Available Accelerated Compute: University Lab Nvidia RTX 4060 (8GB VRAM), Google Colab Free Tier
 
 ---
 
 ### **Axis 2: Professional Domain & Research Interest**
 
 #### 1. Target Scientific / Engineering Domain
-- Broad Field: [e.g., Pure Computer Science, AI Technology, Human Sciences, Medical Imaging, Natural Sciences]
-- Specific Sub-Domain: [e.g., Anomaly detection in ECG signals, RAG indexing optimization]
+- Broad Field: AI Engineering
+- Specific Sub-Domain: AI Project management with agents
 
 #### 2. Domain Knowledge Baseline
-- Formal Coursework or Practical Experience: [e.g., "Two undergraduate courses in signal processing", "Zero formal background, personal interest only"]
+- Formal Coursework or Practical Experience: 2 years of undergraduate AI Engineering courses 
 
 #### 3. Degree Completion Milestone
-- Planned Bachelor's / Master's Thesis Area: [Insert planned thesis topic or focus area]
+- Planned Bachelor's / Master's Thesis Area: AI-assisted diploma thesis on AI Project management with agents 
 
 #### 4. Career Target
-- Target Professional Role: [e.g., Medical AI Solutions Engineer, FinTech ML Engineer, Applied AI Researcher]
+- Target Professional Role: AI Project management with agents for 3D/XR Environments development 
 
 ---
 
@@ -69,11 +68,12 @@ Your role during the Grilling Loop Protocol is NOT to reject them, but to aggres
 
 #### 1. The Vague Idea (1–2 Sentences)
 > *What do you want to build, research, or explore this semester?*
-- *Response:* 
+- *Response:* Building VRChat Flight Simmulator for two F15 jets 
 
 #### 2. The Alignment Hypothesis (1 Sentence)
 > *How does building this specific project bridge your current technical baseline to your Degree Milestone and Career Target?*
-- *Response:*
+- *Response:* I want to use AI to assist in the development of 3D/XR environments 
+
 
 ---
 
