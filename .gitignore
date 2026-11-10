@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# External repositories (folder tracked, contents ignored)
+_X_Pros/*
+!_X_Pros/.gitkeep
+
